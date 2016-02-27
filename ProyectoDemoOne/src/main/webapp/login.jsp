@@ -7,6 +7,21 @@
 <title>DEMO Integración Continua</title>
 </head>
 <body>
-	<h1><p align="center">Login Sistema Bancario</p></h1>
+	
+	
+	<table align="center" width="150">
+		<tr> 
+			<td>
+				<h1><p align="center">Login Sistema Bancario</p></h1>
+			</td>
+		</tr>
+		<tr> 
+			<td>
+				<input type="text" name="txtUsuario" maxlength="10" > </input>
+			</td>
+		</tr>
+		
+	
+	</table>
 </body>
 </html>
