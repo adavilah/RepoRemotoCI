@@ -8,16 +8,16 @@
 </head>
 <body>
 	
-	
-	<table align="center" width="150">
+	<table align="center" width="200">
 		<tr> 
 			<td>
-				<h1><p align="center">Login Sistema Bancario</p></h1>
+				<h3><p align="center">Login Sistema Bancario</p></h3>
 			</td>
 		</tr>
 		<tr> 
 			<td>
-				<input type="text" name="txtUsuario" maxlength="10" > </input>
+				<input type="text" name="txtUsr" maxlength="10" > </input>
+				<input type="text" name="txtPwd" maxlength="8" > </input>
 			</td>
 		</tr>
 		
