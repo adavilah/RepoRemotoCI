@@ -55,9 +55,9 @@
   
   <scm>
         <url>https://github.com/adavilah/RepoRemotoCI</url>
-        <connection>scm:git:ssh://git@github.com:adavilah/RepoRemotoCI.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:adavilah/RepoRemotoCI.git</developerConnection>
-        <tag>HEAD</tag>
+        <connection>scm:git:git://github.com/adavilah/RepoRemotoCI.git</connection>
+        <developerConnection>scm:git:git@github.com:adavilah/RepoRemotoCI.git</developerConnection>
+
     </scm>
   
   
